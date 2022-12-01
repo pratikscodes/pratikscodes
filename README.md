@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pratik</h1>
 <h3 align="center">PhD candidate at Tohoku University</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left"><a href="http://www.ic.is.tohoku.ac.jp/en/pratik/" target="_blank" rel="noreferrer">
+<h3 align="left"><a href="http://www.ic.is.tohoku.ac.jp/en/pratik/" target="_blank" rel="noreferrer">Connect with me:</h3>
+<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
