@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratikscodes&label=Profile%20views&color=0e75b6&style=flat" alt="pratikscodes" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"><a href="http://www.ic.is.tohoku.ac.jp/en/">Connect with me:</h3>
 <p align="left">
 </p>
 
