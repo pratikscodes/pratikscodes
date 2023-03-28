@@ -1,8 +1,9 @@
 <!-- Intro -->
 # <p align="center" style="font-weight:bold"> 👋 <b>Hi there! **_I'm Pratik☺️_**</b> <p>
-<!--<h1 align="center">Hi 👋, I'm Pratik  </h1>-->
+<!--<h1 align="center">Hi 👋, I'm Pratik  </h1> -->
   
-<h3 align="center" style="font-weight:italic">PhD Candidate @ Tohoku University, Japan</h3>
+<h3 align="center" >PhD Candidate @ Tohoku University, Japan</h3>
+
 <!-- GIF image -->
 <img align="left" alt="Coding" width="300" height="200" src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966">
 </p>
@@ -10,11 +11,10 @@
 <p></p>
 </p>
 
-
 <!--
-- 💻 **What I am**: A Tech Recruiter, Future Dev / Tech lover🫧.
-- 🌍 **Where I am**: The Netherlands.
-- 🤔 **What I do**: Building my own sourcing application. Hiring. Learning code. Coffee☕️.
+- 💻 **Who I am**: Phd Candidate.
+- 🌍 **Where I am**: Japan
+- 🤔 **What I do**: Building my own skills. Learning code. Coffee☕️.
  -->
 
 ## About me 🧑‍🎓
@@ -30,7 +30,7 @@ class Pratik:
     self.surname = 'Sahu'
     self.education = ['Tohoku', 'IIITDMJ']
     self.experience = ['Python', 'OpenCV', 'ML']
-    self.interests = ['ComputerVision', 'DeepLearning', 'ML', 'Space']
+    self.interests = ['ComputerVision', 'DeepLearning', 'ML', 'Chai']
     self.hobbies = ['Guitar', 'Cycling', 'Reading', 'Cooking']
     self.languages = ['English', 'Hindi', 'Japanese']
 ```
