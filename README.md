@@ -21,7 +21,7 @@
 
 I am a person who loves doing new stuff and learning, I can't stop researching and practising what I learn, or even challenging myself to do things that I might fear. I can work both alone and as part of a team.
 
-I am really interested in _computer vision_ 🖥️👁️.
+I am interested in _machine learning and computer vision_ 🤖🧠🖥️👁️.
 
 ```python
 class Pratik:
@@ -38,7 +38,7 @@ class Pratik:
 
 <!-- github stat's card -->
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=pratikscodes&show_icons=true&theme=cobalt">-->
-
+<!-- visit link for more info https://github.com/anuraghazra/github-readme-stats -->
 <!-- languages -->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
