@@ -36,7 +36,8 @@ class Pratik:
 ```
 <br />
 
-
+<!-- github stat's card -->
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=pratikscodes&show_icons=true&theme=cobalt">-->
 
 <!-- languages -->
 <h3 align="left">Languages and Tools:</h3>
