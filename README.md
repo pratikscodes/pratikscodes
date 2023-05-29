@@ -19,7 +19,8 @@
 
 ## About me 🧑‍🎓
 
-I am a person who loves doing new stuff and learning, I can't stop researching and practising what I learn, or even challenging myself to do things that I might fear. I can work both alone and as part of a team.
+I am a person who loves doing new stuff and learning. I can work both alone and as part of a team.
+I love to explore new places :ship:. If not at work you can find me reading books/blogs :book: and watching movies :movie_camera:.
 
 I am interested in _machine learning and computer vision_ 🤖🧠🖥️👁️.
 
